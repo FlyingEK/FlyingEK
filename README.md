@@ -11,7 +11,7 @@
 
  
 
-- 👋 Hi, I’m Noeng Yee Kay
+- 👋 Hi, I’m Neong Yee Kay
 - 👀 I’m interested in software engineering.
 - 🌱 I’m currently enrolled in BSc (Hons) in Software Engineering at Asia Pacific University (APU).
 - 💞️ I’m looking to collaborate on interesting and meaningful projects.
