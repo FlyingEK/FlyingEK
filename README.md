@@ -32,7 +32,7 @@
 
 ## Resume 📄
 <p>
-    <a href="">
+    <a href="https://drive.google.com/file/d/1wWSGpK0fnxPWkFrKeNPXwd18wyuGcncU/view?usp=sharing">
         <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=plastic&logo=googledrive&logoColor=white">
     </a>
 </p>
